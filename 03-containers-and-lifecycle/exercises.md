@@ -20,4 +20,3 @@
 
 ---
 
-See [solutions.md](solutions.md) for detailed solutions.
